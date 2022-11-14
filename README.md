@@ -6,4 +6,4 @@ The app allows users to take images or import images for analysis. Instructions 
 
 
 WATCH OUR DEMO BELOW:
-[![Mantra](https://i.imgur.com/6aId7Sb.png)](https://www.youtube.com/watch?v=kOLhmTb6FY0&ab_channel=shahryardurrani "Mantra App")
+[![Mantra](https://i.imgur.com/6aId7Sb.png)](https://youtu.be/393H-JqY8es "Mantra App")
