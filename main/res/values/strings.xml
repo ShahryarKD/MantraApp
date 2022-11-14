@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MantraApp</string>
+    <string name="emotionPic">User provided image to be analyzed for facial expression</string>
+    <string name="title">Mantra</string>
+    <string name="get_image">Get Image</string>
+    <string name="take_image">Take Image</string>
+    <string name="get_emotion">Get Emotion</string>
+    <string name="resultTitle">Result:</string>
+    <string name="what_s_your_mantraBtn">what\'s your mantra?</string>
+    <string name="how_to_use_mantra">How to Use Mantra</string>
+    <string name="howToDesc">Start by selecting or capturing an image and our algorithms will detect different emotions \n\n\n You can then proceed to some personalized mantras selected just for you based on your results</string>
+    <string name="lets_begin">Let\'s Begin</string>
+</resources>
