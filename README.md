@@ -3,5 +3,7 @@ Mantra is an app to recommend different quotes or "mantras" to users based off o
 
 The app allows users to take images or import images for analysis. Instructions are included in the interface
 
+
+
 WATCH OUR DEMO BELOW:
 [![Mantra](https://i.imgur.com/6aId7Sb.png)](https://www.youtube.com/watch?v=kOLhmTb6FY0&ab_channel=shahryardurrani "Mantra App")
